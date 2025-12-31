@@ -1,0 +1,35 @@
+{
+    "document_type": "invoice",
+    "invoice_number": "FACOO001",
+    "invoice_date": "9 avr. 2019",
+    "due_date": "D\u00e9s R\u00e9ception",
+    "seller": {
+        "name": "Marwan BENNIS",
+        "address": "123 Rue du soleil Levant Ville Paris",
+        "vat_number": ""
+    },
+    "buyer": {
+        "name": "Lucas MIAKINEN",
+        "address": "456 heureux de la tour",
+        "vat_number": ""
+    },
+    "items": [
+        {
+            "description": "Macbook Air Pro",
+            "quantity": "1,00",
+            "unit_price": "444,00 \u20ac",
+            "total_price": "444,00 \u20ac"
+        },
+        {
+            "description": "Air Pod pro max",
+            "quantity": "11,00",
+            "unit_price": "115,00 \u20ac",
+            "total_price": ""
+        }
+    ],
+    "totals": {
+        "subtotal": "1444,00 \u20ac",
+        "tax": "541,80 \u20ac",
+        "total_due": "3250,80 \u20ac"
+    }
+}
